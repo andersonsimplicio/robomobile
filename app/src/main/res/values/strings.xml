@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Robo Marciano</string>
+    <string name="welcome">"Olá Sou Robo Marciando você pode me Perguntar qualquer coisa."</string>
+    <string name="math">Ex: 2 + 2 ou 2/2 ou 2*2</string>
+</resources>
